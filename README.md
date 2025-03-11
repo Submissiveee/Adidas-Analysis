@@ -8,7 +8,7 @@ A comprehensive analysis of Adidas sales in the Unites States based on data from
  - [Data Source](#data-source)
  - [Tools - Technologies](#tools---technologies)
  - [Data Cleaning - Preparation](#data-cleaning---preparation)
- - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Data Analysis](#data-analysis)
  - [Results - Findings](#results---findings)
  - [Recommendations](#recommendations)
@@ -25,7 +25,8 @@ This Project examines detailed sales data of Adidas products across United State
 ### Data Source
 ---
 
-- **Primary Dataset:** Adidas US Sales_sales.csv
+- **Primary Dataset:** [Adidas US Datasets.xlsx](https://github.com/user-attachments/files/19186353/Adidas.US.Datasets.xlsx)
+
 - **Details:**
    - **Retailers:** Amazon, Foot Locker, Kohl's, Sports Direct, Walmart, West Gear
    - **Products:** Men's Apparel, Men's Athletic Footwear, Men's Street Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear
@@ -55,7 +56,7 @@ The data preparation phase included:
 -  **Data Modeling:** Establishing relationships between tables to support complex queries
 -  **DAX Query Implementation:** Developing custom calculations to enhance analysis
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 ---
 
 During the EDA phase, several key questions were explored:
@@ -124,30 +125,32 @@ While the project provides valuable insights, several limitations must be acknow
 Interactive visualizations include 
 - **Home Page:** Overview / Navigations with Region Map
 
-
+![Home](https://github.com/user-attachments/assets/703672b5-e28a-4760-9f88-fd191f03d6a3)
 
 
 - **Product Page:** Detailed analysis by product category and sales methods
 
-
+![Product](https://github.com/user-attachments/assets/71cb020d-fa35-4e4f-84e2-be2b77e7647a)
 
 
 - **Deep Insight** In-depth regional and temporal insights
 
-
+![Deep Insight](https://github.com/user-attachments/assets/1192959d-cb11-42ab-a78c-6010001888a0)
 
 
 - **Trend Analysis:** Quaterly and yearly performance trends
 
-
+![Trend Analysis](https://github.com/user-attachments/assets/0c9555fd-23be-4f5f-b347-6915a5d2d3d4)
 
 
 For an interactive experience, explore the live PowerBI dashboard 
+click [Here](https://app.powerbi.com/view?r=eyJrIjoiMmMxZjU2NzYtNDcwNi00ZTMxLWFlOGMtZmQzNzE0MGFkZmMwIiwidCI6IjA0ZmE1NmJhLTU0MzUtNDNiYS1hYjdjLTIxZmY0MzRhNzZhZSJ9)
 
 ### References
 ---
 
-- **Dataset Sources:**
+- **Dataset:** ([Adidas US Datasets.xlsx](https://github.com/user-attachments/files/19186330/Adidas.US.Datasets.xlsx))
+
 - **Analytical Techniques:** Insights derived from industry-standard **EDA** and data modeling practices.
 
 
